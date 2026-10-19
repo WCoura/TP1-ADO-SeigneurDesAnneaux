@@ -1,0 +1,11 @@
+Équipe — TP1 Réservations de lieux (Seigneur des Anneaux)
+Cours : 420-PA6-AG Automne 2026
+Institut Grasset
+
+Membres :
+1. [doNascimentoCoura, Wallace] — [2537044]
+2. [Moser, Adryen] — [2537076]
+
+Répartition des tâches :
+- Membre 1 : scripts SQL, schéma relationnel, MissionRepository (connecté : conflits et recherche), tests de validation.
+- Membre 2 : interface WinForms (3 onglets), LieuRepository et PersonnageRepository (déconnecté), README et captures.
