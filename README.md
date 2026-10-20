@@ -1,3 +1,8 @@
+## Dépôt GitHub
+
+Le code source complet du projet est disponible sur GitHub :
+
+https://github.com/WCoura/TP1-ADO-SeigneurDesAnneaux
 # Réservations de Lieux — Seigneur des Anneaux (WinForms, SQL FIRST, ADO.NET)
 
 ## Description
